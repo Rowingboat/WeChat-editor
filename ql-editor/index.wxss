@@ -1,0 +1,4 @@
+/* components/zxb-editor/index.wxss */
+editor{
+  height: auto;
+}

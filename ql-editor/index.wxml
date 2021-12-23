@@ -1,0 +1,1 @@
+<editor width="100%" height="500px"  html="{{html}}" insertPicture="{{true}}" placeholder="请填充商品信息" bind:Content="getHtml" bind:insertImage="insertImage" id="zxb_editor"/>
